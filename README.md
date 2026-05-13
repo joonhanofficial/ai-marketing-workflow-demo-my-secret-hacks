@@ -2,6 +2,8 @@
 
 A self-directed application project showing how AI can support marketing execution through structured research, content planning, review loops, project coordination, and human-led quality control.
 
+The goal is to make the application reviewable: a hiring team can see the role understanding, workflow logic, and practical use cases before deciding whether to interview me.
+
 ## Why I Built This
 
 I created this project for the Marketing – AI & Digital Content role at My Secret Hacks.
@@ -18,7 +20,7 @@ This project is based only on public information, including:
 - the My Secret Hacks website and careers page
 - publicly visible social/content positioning
 
-From the public material, My Secret Hacks appears to operate across content creation, marketing, production, training, and social media growth.
+Based on public material, My Secret Hacks appears to operate across content creation, marketing, production, training, and social media growth.
 
 The careers page describes the company as creating viral marketing campaigns and scaling social media accounts by over 100k followers in under six months.
 
@@ -175,8 +177,6 @@ This project is meant to show that I can:
 This is not a claim that I already know everything about My Secret Hacks’ internal workflow.
 
 It is not based on private company data.
-
-It is not a finished consulting recommendation.
 
 It is a practical application demo based on public information, built to show how I think and how I would approach the role.
 
